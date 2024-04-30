@@ -1,5 +1,6 @@
 <h1 align="center">Weather App</h1> 
 <br/>
+
 ## 🚀 Features
 - Saving the weather data in redux-store and session storage to reduce the dependency on network requests
 - Search weather details according to the city

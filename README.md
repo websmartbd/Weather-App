@@ -1,5 +1,5 @@
 <h1 align="center">Weather App</h1> 
-
+<br/>
 ## 🚀 Features
 - Saving the weather data in redux-store and session storage to reduce the dependency on network requests
 - Search weather details according to the city
@@ -15,7 +15,7 @@
 
 ## Getting Started
 
-This project was built using React v 17.0.2, Redux v 4.1.2, Chakra UI, CSS and Rest API. It is a web application and for running on your local environment you should follow these guidelines.
+This project was built using React v 17.0.2, Redux v 4.1.2, Chakra UI, CSS, and Rest API. It is a web application and for running on your local environment you should follow these guidelines.
 
 
 ### Prerequisites
@@ -34,7 +34,7 @@ Using HTTPS
 # git clone  https://github.com/m-sehrawat/Weather-App.git
 ```
 
-+ Open terminal on your workspace with
++ Open the terminal on your workspace with
 
 ```
 cd /home/workspace/Weather-App
@@ -59,7 +59,7 @@ To confirm that you have npm installed you can run this command in your terminal
 npm -v
 ```
 
-To install all the dependences of the project, run the following command:
+To install all the dependencies of the project, run the following command:
 
 
 ```
